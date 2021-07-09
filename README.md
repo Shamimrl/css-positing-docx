@@ -26,5 +26,3 @@ https://codepen.io/shamim-the-sans/pen/QWvEPzQ?editors=1100
 ## Screenshots
 
 ![App Screenshot](https://prnt.sc/19qw6j7)
-
-Editing the file to check the forking utility. 
