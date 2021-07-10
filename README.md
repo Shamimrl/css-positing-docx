@@ -18,14 +18,8 @@ https://codepen.io/shamim-the-sans/pen/QWvEPzQ?editors=1100
 যেমন উদাহরণে আমরা 3 জেনারেশন ধরে relative প্রপার্টি ব্যাবহার করেছি ( grandpa> father> child)
 সবাইকে RELATIVE করে সরানোর চেষ্টা করা হয়েছে।
 
-
-
 অন্যদিকে absolute property কাজ করে এর parent এর সাপেক্ষে যার positioning করা আছে(relative or absolute দুই ক্ষেত্রেই)।
 উদাহরণ:https://codepen.io/shamim-the-sans/pen/XWNGebZ
- 
-## Screenshots
-
-![App Screenshot](https://prnt.sc/19qw6j7)
 
 --------------------------------End-----------------------------------------
 # Css Transition Properties
