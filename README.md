@@ -27,3 +27,20 @@ https://codepen.io/shamim-the-sans/pen/QWvEPzQ?editors=1100
 
 ![App Screenshot](https://prnt.sc/19qw6j7)
 
+-------------------------------------------------------------------------------End--------------------------------------------------------------------------------------------
+# Css Transition Properties
+
+A brief description of the behavour of TRANSITION on hover.
+
+Transition property এর কাজের ধরণ কিছু টা এরকম। 
+
+উদাহরণ: https://codepen.io/shamim-the-sans/pen/abWmmqP?editors=1100
+
+1. Only in element: যদি element এর ভিতর transition দেয়া‌ থাকে তাহলে সে on hover and after hover দুই সময় ই control করবে। 
+উদাহরণ: উপরের উদাহরণের btn1
+
+2.Only in hover: যদি শুধু hover এ দেয়া থাকে তাহলে শুধু আসার সময়ের অবস্থা নিয়ন্ত্রণ হবে। তবে ফিরে আসার সময় দ্রুত চলে আসবে একটু ও দাঁড়াবে না বা আস্তে আস্তে আসবে না।
+উদাহরণ: উপরের উদাহরণের btn2
+
+3.Both in element and hover: যদি element এবং hover দুই জায়গাতেই থাকে তাহলে hover করলে hover এর transition value follow করবে আর আগের অবস্থায় আসার সময় element এর transition value follow করবে ।
+উদাহরণ: উপরের উদাহরণের btn3
